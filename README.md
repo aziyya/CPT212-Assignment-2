@@ -1,6 +1,7 @@
 # **🌟Boyer-Moore Pattern Searching Algorithm🌟**
 
-This program implements the Boyer-Moore string search algorithm, which is one of the most efficient algorithms for finding a substring (pattern) within a larger string (text).
+This program implements the Boyer-Moore string search algorithm using Java language.
+Boyer-Moore string search algorithm is one of the most efficient algorithms for finding a substring (pattern) within a larger string (text).
 
 ## **Features**
 
